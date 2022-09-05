@@ -6,3 +6,5 @@ After opening the dev environment, activate the virtualenv with:
 ```bash
 source .venv/bin/activate
 ```
+
+Currently setup to use Python 3.10

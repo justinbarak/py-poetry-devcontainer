@@ -12,7 +12,7 @@ ENV PYTHONFAULTHANDLER=1 \
     PIP_NO_CACHE_DIR=off \
     \
     # poetry vars
-    POETRY_VERSION=1.2.0 \
+    POETRY_VERSION=1.3.1 \
     POETRY_HOME="/opt/poetry" \
     POETRY_VIRTUALENVS_IN_PROJECT=true \
     POETRY_NO_INTERACTION=true \
